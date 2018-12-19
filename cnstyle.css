@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	max-width:1500px;
+	margin: 0 auto;
+}
+
+#banner {
+max-width:100%;
+}
+
+#banner img {
+	max-width:100%;
+}
+
+.roster li {
+	border-bottom:  3px solid white; 
+list-style-type:none;
+}
+#nav ul {
+	margin-top: 5px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	margin-left: 20px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	list-style-type: none;
+}
+#nav li {
+	float: left;
+}
+#nav a {
+	background-color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	text-decoration: none;
+}
